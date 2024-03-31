@@ -33,7 +33,7 @@ Each user story with acceptance criteria is defined using Gherkin format (GWT).
 
 ### Sequence Diagram for class creation flow
 
-![AADSDSDAS](./diagrams/classCreateFlow.md)
+![](./images/classCreateFlow-1.svg)
 
 ### Flowchart Service as Request Handler
 
