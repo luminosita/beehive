@@ -1,0 +1,18 @@
+### Bee Hive Features
+- Multi-tenant 
+- Multi Cluster 
+- WorkFlow Engine 
+- Document Repository 
+- Vendor Management 
+- PM Management 
+- Interface Manager 
+- Class Manager 
+- Roles (PM, docwriter , coder, tester, codeqm, codeproofer) 
+- Classes (DB, Service, API, UI, Dao, Dto) 
+- Identity Federation (Social , Internal) 
+- Budget 
+- Vendor Invoice 
+- System Roles (admin, org user) 
+- Client Portal 
+- Vendor Portal 
+- Notifications 
