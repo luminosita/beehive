@@ -87,7 +87,6 @@ erDiagram
         string Type
     }
 ```
-{collapsible="true"}
 
  * ModuleType (DB, Repository, UI)
  * ServiceType (DB, Doc Repository, Business Logic, UI) 
