@@ -94,5 +94,5 @@ erDiagram
  * ClassType (Main, Integration Test, Load Test, Performance Test) 
  * VendorType (UX, UI, coder, QA, QM)
  * JobType (UML, BPML, Use Cases, Project Docs, Classes, Services, Modules, UI, UX, Theme)
- TaskType (Manual, Automation) 
- PolicyType (Read/Write ?) 
+ * TaskType (Manual, Automation) 
+ * PolicyType (Read/Write ?) 
