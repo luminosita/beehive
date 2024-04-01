@@ -7,6 +7,7 @@
 - define roles
 - define DTO model
 - define and document interfaces
+- define and document APIs (Swagger) 
 - define dependencies (libraries)
 - define connectors (infrastructure)
 - define test cases for user stories
