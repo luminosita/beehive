@@ -9,9 +9,10 @@ Project
 
 Project
  ↳ Epic 1..*
-  ↳ Feature 1..*
-   ↳ Gherkin Story 1..*
-    ↳ Gherkin Test 1..*
+  ↳ Module 1..*
+   ↳ Feature 1..*
+    ↳ Gherkin Story 1..*
+     ↳ Gherkin Test 1..*
 
 Project
  ↳ Module 1..*
