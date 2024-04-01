@@ -1,5 +1,6 @@
 #### Steps to form proper documentation for class/library software development
 - create project
+- create Git project structure
 - define modules (user management, projects, vendor management...)
 - define features
 - define user stories
