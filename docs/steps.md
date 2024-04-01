@@ -1,0 +1,16 @@
+#### Steps to form proper documentation for class/library software development
+- create project
+- define modules (user management, projects, vendor management...)
+- define features
+- define user stories
+- divide user stories into epics
+- define roles
+- define and document interfaces
+- define dependencies (libraries)
+- define connectors (infrastructure)
+- define test cases for user stories
+- create mocks/stubs for connectors and interfaces (dependencies) 
+- create unit tests per class/library
+- create class / library
+- create dockerfile
+- validate class/library thru CI
